@@ -1,4 +1,4 @@
-# 🔥 Fire Wizard Survival
+# 🔥 Abyss Survivor
 
 Um jogo simples desenvolvido no Construct 3 onde você controla um mago de fogo e precisa sobreviver ao maior número possível de inimigos goblins, ganhando pontos por cada inimigo derrotado.
 
@@ -8,19 +8,13 @@ Você controla o Mago de Fogo pelo mapa, que possui dois ataques:
 
 Botão Esquerdo do Mouse: Lança uma bola de fogo 
 
-Botão Direito do Mouse: Dispara um jato de lava
-
 🧙‍♂️ Ataques:
 
 Bola de Fogo:	-1 de saúde do goblin menor e -0.5 de saude goblin maior
 
-Jato de Lava:	-2 saúde do goblin menor e -1 de saude do goblin maior
-
 🧟‍♂️ Inimigos:
 
-Goblin Menor – 5 de saúde
-
-Goblin Maior – 10 de saúde
+Goblin – 5 de saúde
 
 🎯 Objetivo:
 
