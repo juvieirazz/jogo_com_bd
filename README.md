@@ -56,5 +56,5 @@ Prints da aplicação:
 
 Print do banco de dados:
 
-![image]([https://github.com/user-attachments/assets/7f016616-475a-4853-b299-b5ca0f4ffd21](https://github.com/juvieirazz/jogo_com_bd/blob/main/printbd.png))
+![image](https://github.com/juvieirazz/jogo_com_bd/blob/main/banco.png).
 
