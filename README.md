@@ -52,7 +52,7 @@ Prints da aplicação:
 
 ![image](https://github.com/juvieirazz/jogo_com_bd/blob/main/aplica%C3%A7%C3%A3o.png)
 
-![image](https://github.com/user-attachments/assets/46ad02dc-eaea-4ec2-b329-3b39141ec1e0)
+![image](https://github.com/juvieirazz/jogo_com_bd/blob/main/pontua%C3%A7%C3%A3o1.png)
 
 Print do banco de dados:
 
