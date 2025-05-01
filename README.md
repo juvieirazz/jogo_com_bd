@@ -50,7 +50,7 @@ ________________________________________________________________________________
 
 Prints da aplicação: 
 
-![image](https://github.com/user-attachments/assets/90637a8b-7d4f-448d-8d0f-19ed087daa37)
+![image](https://github.com/juvieirazz/jogo_com_bd/blob/main/aplica%C3%A7%C3%A3o.png)
 
 ![image](https://github.com/user-attachments/assets/46ad02dc-eaea-4ec2-b329-3b39141ec1e0)
 
