@@ -36,7 +36,7 @@ Seu nome e pontuação são enviados e salvos no banco de dados para fins de ran
 
 📦 Como Jogar:
 
-Entre no link: https://www.construct.net/en/free-online-games/fire-wizard-survival-76038/play
+Entre no link:(https://www.construct.net/en/free-online-games/survivor-of-the-abyss-76071/play).
 
 Clique e mire com o mouse para atacar.
 
